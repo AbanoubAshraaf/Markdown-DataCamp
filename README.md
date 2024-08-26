@@ -78,6 +78,8 @@ README.md
    yarn install
    ```
 
+
+
 3. **Start the Expo server:**
    ```sh
    yarn start
