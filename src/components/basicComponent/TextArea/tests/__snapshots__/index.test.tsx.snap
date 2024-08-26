@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextArea renders correctly and calls onChangeText when text is changed 1`] = `
+<TextInput
+  multiline={true}
+  onChangeText={
+    [MockFunction] {
+      "calls": [
+        [
+          "New text",
+        ],
+      ],
+      "results": [
+        {
+          "type": "return",
+          "value": undefined,
+        },
+      ],
+    }
+  }
+  placeholder="Enter your markdown here..."
+  value=""
+/>
+`;
