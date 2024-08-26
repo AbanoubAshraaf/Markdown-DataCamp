@@ -67,12 +67,18 @@ README.md
 
 ## Installation
 
-1. **Install dependencies:**
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/AbanoubAshraaf/markdown-dataCamp.git
+   cd markdown-dataCamp
+   ```
+
+2. **Install dependencies:**
    ```sh
    yarn install
    ```
 
-2. **Start the Expo server:**
+3. **Start the Expo server:**
    ```sh
    yarn start
    ```
