@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MarkdownViewer renders markdown text correctly 1`] = `
+<RCTScrollView
+  style={
+    {
+      "backgroundColor": "#f0f0f0",
+      "borderRadius": 5,
+      "flex": 1,
+      "margin": 10,
+      "padding": 10,
+    }
+  }
+>
+  <View>
+    <View
+      style={{}}
+    >
+      <View
+        style={
+          {
+            "flexDirection": "row",
+          }
+        }
+      >
+        <Text
+          style={{}}
+        >
+          <Text
+            style={
+              [
+                {
+                  "fontSize": 32,
+                },
+                {},
+              ]
+            }
+          >
+            Hello World
+          </Text>
+        </Text>
+      </View>
+    </View>
+  </View>
+</RCTScrollView>
+`;
